@@ -4,7 +4,8 @@ import asyncio, os, json, time
 from datetime import datetime
 
 from aiohttp import web
-//注释hehh1234
+
+# 注释hehh1234
 
 
 def index(request):
